@@ -1,4 +1,5 @@
 verifiedvision
 ==============
 
-verified vision
+Verified Vision web site
+
